@@ -1,0 +1,254 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.7f1 (c53830e277f1) revision 12924976'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.1440; Version 1909; 64bit' Language: 'bg' Physical Memory: 4009 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Unity\2020.2.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker5
+-projectPath
+D:/Games/my games/Steam World Dig Clone
+-logFile
+Logs/AssetImportWorker5.log
+-srvPort
+58117
+Successfully changed project path to: D:/Games/my games/Steam World Dig Clone
+D:/Games/my games/Steam World Dig Clone
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 112.35 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.7f1 (c53830e277f1)
+[Subsystems] Discovering subsystems at path D:/Unity/2020.2.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Games/my games/Steam World Dig Clone/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   
+    VRAM:     2004 MB
+    Driver:   20.19.15.4624
+Initialize mono
+Mono path[0] = 'D:/Unity/2020.2.7f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/2020.2.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/2020.2.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56656
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/2020.2.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Unity/2020.2.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003886 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 90.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.104 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002548 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 704.76 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.686 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.75 seconds
+Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.8 MB.
+System memory in use after: 84.9 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2257.
+Total: 130.333000 ms (FindLiveObjects: 0.266200 ms CreateObjectMapping: 0.097900 ms MarkObjects: 124.354100 ms  DeleteObjects: 5.611600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Graphics/peter-burroughs-tilingdirt.jpg
+  artifactKey: Guid(8ba0d5bcc355bf24399ee86e117edd36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/peter-burroughs-tilingdirt.jpg using Guid(8ba0d5bcc355bf24399ee86e117edd36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bb474b837847a7d30e96f880d3f1433') in 0.855418 seconds
+  Import took 0.883732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000542 seconds.
+  path: Assets/Graphics/peter-burroughs-stonetexture.jpg
+  artifactKey: Guid(4bca6c21d2dede64a8cab44a60ef0164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/peter-burroughs-stonetexture.jpg using Guid(4bca6c21d2dede64a8cab44a60ef0164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da97ca134e5466a227d1571936b91815') in 0.204112 seconds
+  Import took 0.293086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.515714 seconds.
+  path: Assets/Graphics/4K rock.jpg
+  artifactKey: Guid(4bca6c21d2dede64a8cab44a60ef0164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/4K rock.jpg using Guid(4bca6c21d2dede64a8cab44a60ef0164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93df67731414e45e6920fe69eded2ecf') in 0.139207 seconds
+  Import took 0.192516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.490344 seconds.
+  path: Assets/Graphics/4K irt.jpg
+  artifactKey: Guid(8ba0d5bcc355bf24399ee86e117edd36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/4K irt.jpg using Guid(8ba0d5bcc355bf24399ee86e117edd36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33d67d529ae07af831bd13c780e32a4e') in 0.133011 seconds
+  Import took 0.184604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.007927 seconds.
+  path: Assets/Graphics/4K irt.jpg
+  artifactKey: Guid(8ba0d5bcc355bf24399ee86e117edd36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/4K irt.jpg using Guid(8ba0d5bcc355bf24399ee86e117edd36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c68daa17b79a9ccc2ee8890963977304') in 0.099097 seconds
+  Import took 0.149381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.251789 seconds.
+  path: Assets/Graphics/4K rock.jpg
+  artifactKey: Guid(4bca6c21d2dede64a8cab44a60ef0164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/4K rock.jpg using Guid(4bca6c21d2dede64a8cab44a60ef0164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76ffe46518a01cb621e2a35641722df5') in 0.081158 seconds
+  Import took 0.157116 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001980 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.134 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1799 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.5 MB.
+System memory in use after: 87.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2266.
+Total: 2.965400 ms (FindLiveObjects: 0.255400 ms CreateObjectMapping: 0.097500 ms MarkObjects: 2.582100 ms  DeleteObjects: 0.028900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 249.797172 seconds.
+  path: Assets/Graphics/4K irt.jpg
+  artifactKey: Guid(8ba0d5bcc355bf24399ee86e117edd36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/4K irt.jpg using Guid(8ba0d5bcc355bf24399ee86e117edd36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7e10c8aae2b9b602ab6eb5aca6e330a') in 0.249361 seconds
+  Import took 0.476853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.126109 seconds.
+  path: Assets/Graphics/4K rock.jpg
+  artifactKey: Guid(4bca6c21d2dede64a8cab44a60ef0164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/4K rock.jpg using Guid(4bca6c21d2dede64a8cab44a60ef0164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '515e0bdec9c2dd15ef7db055495657bd') in 0.149989 seconds
+  Import took 0.166505 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002448 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.247 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1799 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.6 MB.
+System memory in use after: 87.7 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2272.
+Total: 3.244500 ms (FindLiveObjects: 0.294600 ms CreateObjectMapping: 0.100200 ms MarkObjects: 2.815300 ms  DeleteObjects: 0.031700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.416306 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.997 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1799 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.6 MB.
+System memory in use after: 87.7 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2275.
+Total: 3.091200 ms (FindLiveObjects: 0.247900 ms CreateObjectMapping: 0.092000 ms MarkObjects: 2.721300 ms  DeleteObjects: 0.028100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 503.430491 seconds.
+  path: Assets/Graphics/4K irt.jpg
+  artifactKey: Guid(8ba0d5bcc355bf24399ee86e117edd36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/4K irt.jpg using Guid(8ba0d5bcc355bf24399ee86e117edd36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17889a409a0a35bebe565c742e3c39b0') in 0.303935 seconds
+  Import took 0.379132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.081881 seconds.
+  path: Assets/Graphics/4K rock.jpg
+  artifactKey: Guid(4bca6c21d2dede64a8cab44a60ef0164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Graphics/4K rock.jpg using Guid(4bca6c21d2dede64a8cab44a60ef0164) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87358c5529ea817be1238ec120ee5e59') in 0.079957 seconds
+  Import took 0.171542 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001893 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.998 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1799 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.6 MB.
+System memory in use after: 87.7 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2281.
+Total: 3.279400 ms (FindLiveObjects: 0.324600 ms CreateObjectMapping: 0.161100 ms MarkObjects: 2.764800 ms  DeleteObjects: 0.027100 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
